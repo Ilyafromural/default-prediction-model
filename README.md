@@ -14,7 +14,7 @@ This command by default takes care of all the training.
 # Prediction of default
 To get the prediction from the model do the following:
 Save file with data for pridiction in the data-for-predictions sub-directory (there's an example of what it should look like)
-Run python pipeline.py predict
+Run: python pipeline.py predict
 # Model's metadata
 To get model's metadata simlpy run:
 python pipeline.py metadata
